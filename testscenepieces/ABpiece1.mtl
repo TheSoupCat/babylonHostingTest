@@ -1,0 +1,203 @@
+# Blender 3.3.1 MTL File: 'ABtestscene.blend'
+# www.blender.org
+
+newmtl Wall
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ../../../../Downloads/Furniture voor Scene/Walls/textures/pintura_verda_1_2x2_4k_Albedo.png
+map_Ns ../../../../Downloads/Furniture voor Scene/Walls/textures/pintura_verda_1_2x2_4k_Roughness.png
+map_refl ../../../../Downloads/Furniture voor Scene/Walls/source/modular_walls/D:/01. Treballs/02. Treballs en proces/3d/biblioteca/Materials/EPBR_Library/Easy_PBR_library/PBR_Textures/pintura verda 1 2x2 4k/pintura verda 1 2x2 4k_Metalness.png
+map_Bump ../../../../Downloads/Furniture voor Scene/Walls/textures/pintura_verda_1_2x2_4k_Normal.png
+
+newmtl Wall.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ../../../../Downloads/Furniture voor Scene/Walls/textures/pintura_verda_1_2x2_4k_Albedo.png
+map_Ns ../../../../Downloads/Furniture voor Scene/Walls/textures/pintura_verda_1_2x2_4k_Roughness.png
+map_refl ../../../../Downloads/Furniture voor Scene/Walls/source/modular_walls/D:/01. Treballs/02. Treballs en proces/3d/biblioteca/Materials/EPBR_Library/Easy_PBR_library/PBR_Textures/pintura verda 1 2x2 4k/pintura verda 1 2x2 4k_Metalness.png
+map_Bump ../../../../Downloads/Furniture voor Scene/Walls/textures/pintura_verda_1_2x2_4k_Normal.png
+
+newmtl Wall.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ../../../../Downloads/Furniture voor Scene/Walls/textures/pintura_verda_1_2x2_4k_Albedo.png
+map_Ns ../../../../Downloads/Furniture voor Scene/Walls/textures/pintura_verda_1_2x2_4k_Roughness.png
+map_refl ../../../../Downloads/Furniture voor Scene/Walls/source/modular_walls/D:/01. Treballs/02. Treballs en proces/3d/biblioteca/Materials/EPBR_Library/Easy_PBR_library/PBR_Textures/pintura verda 1 2x2 4k/pintura verda 1 2x2 4k_Metalness.png
+map_Bump ../../../../Downloads/Furniture voor Scene/Walls/textures/pintura_verda_1_2x2_4k_Normal.png
+
+newmtl Wall.003
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ../../../../Downloads/Furniture voor Scene/Walls/textures/pintura_verda_1_2x2_4k_Albedo.png
+map_Ns ../../../../Downloads/Furniture voor Scene/Walls/textures/pintura_verda_1_2x2_4k_Roughness.png
+map_refl ../../../../Downloads/Furniture voor Scene/Walls/source/modular_walls/D:/01. Treballs/02. Treballs en proces/3d/biblioteca/Materials/EPBR_Library/Easy_PBR_library/PBR_Textures/pintura verda 1 2x2 4k/pintura verda 1 2x2 4k_Metalness.png
+map_Bump ../../../../Downloads/Furniture voor Scene/Walls/textures/pintura_verda_1_2x2_4k_Normal.png
+
+newmtl Wall.004
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ../../../../Downloads/Furniture voor Scene/Walls/textures/pintura_verda_1_2x2_4k_Albedo.png
+map_Ns ../../../../Downloads/Furniture voor Scene/Walls/textures/pintura_verda_1_2x2_4k_Roughness.png
+map_refl ../../../../Downloads/Furniture voor Scene/Walls/source/modular_walls/D:/01. Treballs/02. Treballs en proces/3d/biblioteca/Materials/EPBR_Library/Easy_PBR_library/PBR_Textures/pintura verda 1 2x2 4k/pintura verda 1 2x2 4k_Metalness.png
+map_Bump ../../../../Downloads/Furniture voor Scene/Walls/textures/pintura_verda_1_2x2_4k_Normal.png
+
+newmtl Wall.005
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ../../../../Downloads/Furniture voor Scene/Walls/textures/pintura_verda_1_2x2_4k_Albedo.png
+map_Ns ../../../../Downloads/Furniture voor Scene/Walls/textures/pintura_verda_1_2x2_4k_Roughness.png
+map_refl ../../../../Downloads/Furniture voor Scene/Walls/source/modular_walls/D:/01. Treballs/02. Treballs en proces/3d/biblioteca/Materials/EPBR_Library/Easy_PBR_library/PBR_Textures/pintura verda 1 2x2 4k/pintura verda 1 2x2 4k_Metalness.png
+map_Bump ../../../../Downloads/Furniture voor Scene/Walls/textures/pintura_verda_1_2x2_4k_Normal.png
+
+newmtl Wall.006
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ../../../../Downloads/Furniture voor Scene/Walls/textures/pintura_verda_1_2x2_4k_Albedo.png
+map_Ns ../../../../Downloads/Furniture voor Scene/Walls/textures/pintura_verda_1_2x2_4k_Roughness.png
+map_refl ../../../../Downloads/Furniture voor Scene/Walls/source/modular_walls/D:/01. Treballs/02. Treballs en proces/3d/biblioteca/Materials/EPBR_Library/Easy_PBR_library/PBR_Textures/pintura verda 1 2x2 4k/pintura verda 1 2x2 4k_Metalness.png
+map_Bump ../../../../Downloads/Furniture voor Scene/Walls/textures/pintura_verda_1_2x2_4k_Normal.png
+
+newmtl glass
+Ns 324.000031
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl glass_2
+Ns 324.000031
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl iron
+Ns 224.999985
+Ka 1.000000 1.000000 1.000000
+Kd 0.000262 0.000262 0.000262
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl metal
+Ns 789.099121
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.446284 0.128984
+Ks 0.186364 0.186364 0.186364
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl wood_2
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ../../../../Downloads/Furniture voor Scene/Walls/textures/Untitled_Albedo.png
+map_Ks ../../../../Downloads/Furniture voor Scene/Walls/source/modular_walls/D:/01. Treballs/02. Treballs en proces/3d/biblioteca/Materials/EPBR_Library/Easy_PBR_library/PBR_Textures/fusta 11 2x2 4K/fusta 11 2x2 4K_Specular.png
+map_Ns ../../../../Downloads/Furniture voor Scene/Walls/textures/Untitled_Roughness.png
+map_Bump ../../../../Downloads/Furniture voor Scene/Walls/textures/Untitled_Normal.png
+
+newmtl wood_2.001
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ../../../../Downloads/Furniture voor Scene/Walls/textures/Untitled_Albedo.png
+map_Ks ../../../../Downloads/Furniture voor Scene/Walls/source/modular_walls/D:/01. Treballs/02. Treballs en proces/3d/biblioteca/Materials/EPBR_Library/Easy_PBR_library/PBR_Textures/fusta 11 2x2 4K/fusta 11 2x2 4K_Specular.png
+map_Ns ../../../../Downloads/Furniture voor Scene/Walls/textures/Untitled_Roughness.png
+map_Bump ../../../../Downloads/Furniture voor Scene/Walls/textures/Untitled_Normal.png
+
+newmtl wood_2.002
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ../../../../Downloads/Furniture voor Scene/Walls/textures/Untitled_Albedo.png
+map_Ks ../../../../Downloads/Furniture voor Scene/Walls/source/modular_walls/D:/01. Treballs/02. Treballs en proces/3d/biblioteca/Materials/EPBR_Library/Easy_PBR_library/PBR_Textures/fusta 11 2x2 4K/fusta 11 2x2 4K_Specular.png
+map_Ns ../../../../Downloads/Furniture voor Scene/Walls/textures/Untitled_Roughness.png
+map_Bump ../../../../Downloads/Furniture voor Scene/Walls/textures/Untitled_Normal.png
+
+newmtl wood_2.003
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ../../../../Downloads/Furniture voor Scene/Walls/textures/Untitled_Albedo.png
+map_Ks ../../../../Downloads/Furniture voor Scene/Walls/source/modular_walls/D:/01. Treballs/02. Treballs en proces/3d/biblioteca/Materials/EPBR_Library/Easy_PBR_library/PBR_Textures/fusta 11 2x2 4K/fusta 11 2x2 4K_Specular.png
+map_Ns ../../../../Downloads/Furniture voor Scene/Walls/textures/Untitled_Roughness.png
+map_Bump ../../../../Downloads/Furniture voor Scene/Walls/textures/Untitled_Normal.png
+
+newmtl wood_2.004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ../../../../Downloads/Furniture voor Scene/Walls/textures/Untitled_Albedo.png
+map_Ks ../../../../Downloads/Furniture voor Scene/Walls/source/modular_walls/D:/01. Treballs/02. Treballs en proces/3d/biblioteca/Materials/EPBR_Library/Easy_PBR_library/PBR_Textures/fusta 11 2x2 4K/fusta 11 2x2 4K_Specular.png
+map_Ns ../../../../Downloads/Furniture voor Scene/Walls/textures/Untitled_Roughness.png
+map_Bump ../../../../Downloads/Furniture voor Scene/Walls/textures/Untitled_Normal.png
+
+newmtl wood_2.005
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ../../../../Downloads/Furniture voor Scene/Walls/textures/Untitled_Albedo.png
+map_Ks ../../../../Downloads/Furniture voor Scene/Walls/source/modular_walls/D:/01. Treballs/02. Treballs en proces/3d/biblioteca/Materials/EPBR_Library/Easy_PBR_library/PBR_Textures/fusta 11 2x2 4K/fusta 11 2x2 4K_Specular.png
+map_Ns ../../../../Downloads/Furniture voor Scene/Walls/textures/Untitled_Roughness.png
+map_Bump ../../../../Downloads/Furniture voor Scene/Walls/textures/Untitled_Normal.png
+
+newmtl wood_2.006
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ../../../../Downloads/Furniture voor Scene/Walls/textures/Untitled_Albedo.png
+map_Ks ../../../../Downloads/Furniture voor Scene/Walls/source/modular_walls/D:/01. Treballs/02. Treballs en proces/3d/biblioteca/Materials/EPBR_Library/Easy_PBR_library/PBR_Textures/fusta 11 2x2 4K/fusta 11 2x2 4K_Specular.png
+map_Ns ../../../../Downloads/Furniture voor Scene/Walls/textures/Untitled_Roughness.png
+map_Bump ../../../../Downloads/Furniture voor Scene/Walls/textures/Untitled_Normal.png
