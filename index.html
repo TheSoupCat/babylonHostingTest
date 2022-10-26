@@ -54,9 +54,8 @@
         var scene = null;
         var sceneToRender = null;
         var createDefaultEngine = function() { return new BABYLON.Engine(canvas, true, { preserveDrawingBuffer: true, stencil: true,  disableWebGL2Support: false}); };
-        class Playground {
-            static CreateScene(engine, canvas) {
-                var scene = new BABYLON.Scene(engine);
+        var createScene = function () {
+    var scene = new BABYLON.Scene(engine);
 
     //Adding a light
     //var light = new BABYLON.PointLight("Omni", new BABYLON.Vector3(20, 20, 100), scene);
@@ -91,12 +90,27 @@
         shadowGen.addShadowCaster(scene.meshes[i]);
         scene.meshes[i].receiveShadows = true;
     } 
-    
+    //shadowGen.addShadowCaster(piece1); 
+    //shadowGen.addShadowCaster(piece2);
+    //shadowGen.addShadowCaster(piece3);
+    // shadowGen.addShadowCaster(piece4);
+    // shadowGen.addShadowCaster(piece5);
+    piece1.receiveShadows = true;
+    // piece2.receiveShadows = true;
+    // piece3.receiveShadows = true;
+    // piece4.receiveShadows = true;
+    // piece5.receiveShadows = true;
+    //Move the light with the camera
+    // scene.registerBeforeRender(function () {
+    //     light.position = camera.position;
+    // });
+    // function (newMeshes) {
+    //     // Set the target of the camera to the first imported mesh
+    //     camera.target = newMeshes[0];
+    // }
 
     return scene;
-            }
-        }
-        createScene = function() { return Playground.CreateScene(engine, engine.getRenderingCanvas()); }
+};
                 window.initFunction = async function() {
                     
                     
@@ -112,7 +126,7 @@
                     window.engine = await asyncEngineCreation();
         if (!engine) throw 'engine should not be null.';
         startRenderLoop(engine, canvas);
-window.scene = createScene();};
+        window.scene = createScene();};
         initFunction().then(() => {sceneToRender = scene                    
         });
 
